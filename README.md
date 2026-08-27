@@ -1,9 +1,27 @@
-## Blake181041
+# Blake181041
 
-Owner of https://www.portal-network.com/, and all games/apps on it.
+Owner of [PortalNetwork](https://www.portal-network.com/) and all the games/apps on it.
 
-Coding launguages I know: Swift, Python, Html (not really a language but im counting it), js, ts, react (jsx, tsx), and more im too lazy to list.
+## Languages I Know
 
-Feel free to reach out to me for help!
+- Swift
+- Python
+- HTML *(not really a language, but I'm counting it)*
+- JavaScript
+- TypeScript
+- React
+- JSX
+- TSX
+- And more that I'm too lazy to list
 
-One thing about me is I do everything for free. No ads, no millions of popups asking for donations.
+Feel free to reach out to me if you need help with something!
+
+## One Thing About Me
+
+I do everything for free.
+
+No ads.  
+No millions of popups.  
+No constantly asking for donations.
+
+Just free stuff.
