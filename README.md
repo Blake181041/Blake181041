@@ -10,8 +10,6 @@ Owner of [PortalNetwork](https://www.portal-network.com/) and all the games/apps
 - JavaScript
 - TypeScript
 - React
-- JSX
-- TSX
 - And more that I'm too lazy to list
 
 Feel free to reach out to me if you need help with something!
